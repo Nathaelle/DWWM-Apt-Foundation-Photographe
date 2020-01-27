@@ -30,7 +30,7 @@ Enfin, lancez `npm start` pour executer le compilateur Sass. Il sera ré-exécut
 
 NB: Si une erreur survient lors de l'exécution de la commande, réinstallez gulp `npm install gulp-sass`
 
-**Vous trouverez tous les "issues" git (problèmes et pistes correctifs) sur le "repo" git (dépot)[Foundation for Sites](https://github.com/zurb/foundation-sites/issues).**
+**Vous trouverez tous les "issues" git (problèmes et pistes correctifs) sur le "repo" git (dépot) [Foundation for Sites](https://github.com/zurb/foundation-sites/issues).**
 
 ## Exercice
 
