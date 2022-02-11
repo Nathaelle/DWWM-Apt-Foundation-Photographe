@@ -614,9 +614,9 @@ chokidar@^2.0.0:
     fsevents "^1.2.2"
 
 chownr@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.0.1.tgz#e2a75042a9551908bebd25b8523d5f9769d79181"
-  integrity sha1-4qdQQqlVGQi+vSW4Uj1fl2nXkYE=
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.4.tgz#6fc9d7b42d32a583596337666e7d08084da2cc6b"
+  integrity sha512-jJ0bqzaylmJtVnNgzTeSOs8DPavpbYgEr/b0YL8/2GO3xJEhInFmhKMUnEJQjZumK7KXGFhUy89PrsJWlakBVg==
 
 class-utils@^0.3.5:
   version "0.3.6"
@@ -1386,10 +1386,10 @@ form-data@~2.3.1:
     combined-stream "1.0.6"
     mime-types "^2.1.12"
 
-foundation-sites@^6.6.0:
-  version "6.6.0"
-  resolved "https://registry.yarnpkg.com/foundation-sites/-/foundation-sites-6.6.0.tgz#7ce7133a2750d3553a45d11bc9cfb925ee928ea8"
-  integrity sha512-/KXP7rLOO8HvpxiW+uS9jJ2GiRDXj/OGe1W0UeCWv8t+sfxQkDVz4nXmFG4NUjuhEFMulMq/DlbdiqrFlAOpNQ==
+foundation-sites@^6.5.1:
+  version "6.7.4"
+  resolved "https://registry.yarnpkg.com/foundation-sites/-/foundation-sites-6.7.4.tgz#495ddb3b7014ae33df3bf7cc1f9fe74b2cfd572e"
+  integrity sha512-2QPaZJ0Od0DyklhQyKC3zPbr8AAUXSkr1scZJrQTgj/KTLresuCgUBfi7ft32NlOWhuqVXisjOgTE8N5EPS3cg==
 
 fragment-cache@^0.2.1:
   version "0.2.1"
@@ -1688,13 +1688,13 @@ gulp-postcss@^8.0.0:
     postcss-load-config "^2.0.0"
     vinyl-sourcemaps-apply "^0.2.1"
 
-gulp-sass@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/gulp-sass/-/gulp-sass-4.0.1.tgz#7f43d117eb2d303524968a1b48494af1bc64d1d9"
-  integrity sha512-OMQEgWNggpog8Tc5v1MuI6eo+5iiPkVeLL76iBhDoEEScLUPfZlpvzmgTnLkpcqdrNodZxpz5qcv6mS2rulk3g==
+gulp-sass@^4.0.2:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/gulp-sass/-/gulp-sass-4.1.1.tgz#d0f90377f0da98e4522ec554bf7cff1b5004b5be"
+  integrity sha512-bg7mfgsgho0Ej0WXE9Cd2sq/YxeKxOjagrMmM40zvOYXHtZvi5ED84wIpqCUvJLz66kFNkv+jS/rQXolmgXrUQ==
   dependencies:
     chalk "^2.3.0"
-    lodash.clonedeep "^4.3.2"
+    lodash "^4.17.20"
     node-sass "^4.8.3"
     plugin-error "^1.0.1"
     replace-ext "^1.0.0"
@@ -2408,6 +2408,11 @@ lodash@^4.0.0, lodash@^4.17.10, lodash@~4.17.10:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+
+lodash@^4.17.20:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loud-rejection@^1.0.0:
   version "1.6.0"
